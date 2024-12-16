@@ -201,7 +201,7 @@
 
             #endregion
 
-            #region Question(10)
+            #region Question(10) Within a company, the efficiency of workers is evaluated based on the 
 
             //Console.WriteLine("Enter Your Time task");
             //int.TryParse(Console.ReadLine(), out int timeTask);
