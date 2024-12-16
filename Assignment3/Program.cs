@@ -203,6 +203,19 @@
 
             #region Question(10)
 
+            //Console.WriteLine("Enter Your Time task");
+            //int.TryParse(Console.ReadLine(), out int timeTask);
+            //if(timeTask>=2 && timeTask<=3)
+            //    Console.WriteLine("highly efficient.");
+            //else if(timeTask>=3 && timeTask<=4)
+            //    Console.WriteLine("they are instructed to increase their speed.");
+            //else if(timeTask >= 4 && timeTask <= 5)
+            //    Console.WriteLine("they are provided with training to enhance their speed.");
+            //else
+            //    Console.WriteLine("they are required to leave the company");
+
+
+
             #endregion
 
 
